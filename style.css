@@ -1,0 +1,18 @@
+* {
+    background-color: #98EECC;
+    font-family: poppins;
+    color: darkcyan;
+}
+
+h1 {
+    font-size: 50px;
+    background-color: #FBFFDC;
+}
+
+div {
+    border: black 1px solid;
+}
+
+h2 {
+    background-color: #FBFFDC;
+}

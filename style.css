@@ -11,19 +11,8 @@ h1 {
     padding: 10px;
 }
 
-
-h3 {
-    background-color: #FBFFDC;
-    padding: 5px;
-}
-
 li {
-    font-weight: bold;
-    padding: 5px;
     background-color: #FBFFDC;
-    margin: 5px;
-}
-
-.menu {
-    width: 30%;
+    display: inline;
+    padding: 5px;
 }

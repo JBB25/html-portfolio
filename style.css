@@ -6,9 +6,12 @@
 }
 
 .container {
-    display: inline-flex;
+    display: flex;
     gap: 1rem;
     flex-direction: column;
+    justify-content: center;
+    justify-content: space-between;
+    flex-wrap: wrap;
 }
 
 h1 {
@@ -19,7 +22,5 @@ h1 {
 
 li {
     background-color: #FBFFDC;
-    display: inline-block;
-    padding: 5px;
-    width: 100px;
+    list-style: none;
 }

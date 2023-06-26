@@ -1,13 +1,14 @@
 * {
     margin: 0;
-    font-family: poppins;
-    color: darkcyan;
+    color: #79E0EE;
     padding: 5px;
     background-color: #FBFFDC;
+    text-align: center;
+    font-family: arvo;
 }
 
 .container {
-    border: darkcyan solid 1px;
+    border: #79E0EE solid 1px;
     display: flex;
     gap: 1rem;
     flex-direction: column;
@@ -16,21 +17,15 @@
     flex-wrap: wrap;
 }
 
-.menu {
-    display: flex;
-
-    gap: 5px;
-}
-
 h1 {
     font-size: 50px;
-
     padding: 10px;
+    font-family: poppins;
 }
 
-li {
-    list-style: none;
-    background-color: aquamarine;
-    font-weight: bold;
-    text-decoration: none;
+
+img {
+    height: 180px;
+    width: 180px;
+    border-radius: 50%;
 }
